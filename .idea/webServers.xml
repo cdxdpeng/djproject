@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ssh://pyvip@192.168.1.10:22/home/pyvip/.virtualenvs/myproject/bin/python" name="ssh://pyvip@192.168.1.10:22/home/pyvip/.virtualenvs/myproject/bin/python">
+      <webServer id="ssh://pyvip@192.168.1.10:22/home/pyvip/.virtualenvs/myproject/bin/python" name="ssh://pyvip@192.168.1.10:22/home/pyvip/.virtualenvs/myproject/bin/python" url="http://192.168.1.10:8000">
         <fileTransfer host="192.168.1.10" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
